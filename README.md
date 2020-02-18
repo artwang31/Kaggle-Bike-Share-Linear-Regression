@@ -5,3 +5,7 @@ Created a linear regression model based on the amount of bike rentals and the te
 Also tested for correlation between amount of bike rentals and working/non-working days. 
 
 Data borrowed from: https://www.kaggle.com/c/bike-sharing-demand  
+
+![Bikes Rented on Non-Working Days](https://github.com/artwang31/Kaggle-Bike-Share-Regression-Analysis/blob/master/Bike%20Rentals%20on%20Non-Working%20Days.pdf)
+
+
