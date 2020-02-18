@@ -6,6 +6,4 @@ Also tested for correlation between amount of bike rentals and working/non-worki
 
 Data borrowed from: https://www.kaggle.com/c/bike-sharing-demand  
 
-
-
-
+![Bikes Rented on Working Days](https://github.com/artwang31/Kaggle-Bike-Share-Regression-Analysis/blob/master/Bikes%20Rented%20on%20Working%20Days.png)
